@@ -1,0 +1,351 @@
+Date,Account Name,Account Code,Description,Debit,Credit,Balance
+25-04-2023,Food Supplies,FS101,Inventory purchase,0.0,2524.43,-2524.43
+15-04-2023,Electricity,EL102,Vendor payment,0.0,414.65,-414.65
+12-08-2023,Salaries,SL104,Annual maintenance,5656.33,0.0,5656.33
+14-08-2023,Miscellaneous,MS108,Monthly bill,0.0,8113.36,-8113.36
+13-06-2023,Internet,IN107,Utility charges,0.0,2850.93,-2850.93
+11-12-2023,Electricity,EL102,Premises rent,3861.28,0.0,3861.28
+19-12-2023,Rent,RT105,Vendor payment,7324.34,0.0,7324.34
+23-01-2024,Electricity,EL102,Premises rent,0.0,8311.11,-8311.11
+16-07-2023,Electricity,EL102,Staff salary,6646.51,0.0,6646.51
+23-03-2023,Salaries,SL104,Miscellaneous charges,3863.25,0.0,3863.25
+09-01-2024,Water,WT103,Staff salary,0.0,3617.18,-3617.18
+15-03-2023,Water,WT103,Annual maintenance,1717.68,0.0,1717.68
+04-10-2023,Salaries,SL104,Monthly bill,0.0,8444.23,-8444.23
+23-08-2023,Food Supplies,FS101,Vendor payment,0.0,4071.53,-4071.53
+05-08-2023,Maintenance,MT106,Annual maintenance,6588.84,0.0,6588.84
+14-04-2024,Water,WT103,Staff salary,0.0,1482.34,-1482.34
+14-03-2024,Internet,IN107,Inventory purchase,0.0,2271.28,-2271.28
+05-06-2024,Miscellaneous,MS108,Vendor payment,7582.24,0.0,7582.24
+06-06-2023,Water,WT103,Annual maintenance,0.0,6004.45,-6004.45
+26-01-2024,Miscellaneous,MS108,Monthly bill,0.0,9713.68,-9713.68
+28-04-2023,Rent,RT105,Annual maintenance,0.0,1204.37,-1204.37
+11-06-2023,Miscellaneous,MS108,Staff salary,9542.78,0.0,9542.78
+27-05-2024,Water,WT103,Staff salary,8718.13,0.0,8718.13
+03-06-2024,Salaries,SL104,Inventory purchase,3801.75,0.0,3801.75
+27-06-2024,Food Supplies,FS101,Vendor payment,0.0,4937.2,-4937.2
+07-01-2024,Rent,RT105,Vendor payment,673.46,0.0,673.46
+29-03-2023,Miscellaneous,MS108,Inventory purchase,9782.05,0.0,9782.05
+12-05-2023,Miscellaneous,MS108,Annual maintenance,2724.06,0.0,2724.06
+05-08-2023,Salaries,SL104,Premises rent,0.0,4050.02,-4050.02
+24-03-2024,Miscellaneous,MS108,Vendor payment,2554.27,0.0,2554.27
+13-12-2023,Food Supplies,FS101,Monthly bill,5925.56,0.0,5925.56
+14-03-2023,Food Supplies,FS101,Monthly bill,767.26,0.0,767.26
+05-12-2023,Electricity,EL102,Miscellaneous charges,2856.92,0.0,2856.92
+08-08-2023,Water,WT103,Miscellaneous charges,0.0,2505.67,-2505.67
+21-02-2024,Salaries,SL104,Annual maintenance,1059.62,0.0,1059.62
+29-12-2023,Internet,IN107,Monthly bill,0.0,4723.54,-4723.54
+11-04-2023,Food Supplies,FS101,Vendor payment,0.0,7309.31,-7309.31
+12-09-2023,Salaries,SL104,Inventory purchase,5409.23,0.0,5409.23
+08-03-2024,Water,WT103,Vendor payment,0.0,4680.02,-4680.02
+29-03-2024,Electricity,EL102,Monthly bill,6556.23,0.0,6556.23
+06-04-2023,Salaries,SL104,Miscellaneous charges,4123.5,0.0,4123.5
+07-08-2023,Internet,IN107,Monthly bill,1729.91,0.0,1729.91
+04-02-2024,Rent,RT105,Miscellaneous charges,0.0,2923.97,-2923.97
+08-06-2023,Salaries,SL104,Monthly bill,0.0,2255.24,-2255.24
+04-03-2023,Maintenance,MT106,Miscellaneous charges,596.41,0.0,596.41
+29-05-2024,Water,WT103,Vendor payment,9611.71,0.0,9611.71
+10-07-2023,Electricity,EL102,Utility charges,6784.6,0.0,6784.6
+18-02-2024,Electricity,EL102,Monthly bill,5831.3,0.0,5831.3
+25-03-2023,Internet,IN107,Utility charges,0.0,9353.59,-9353.59
+18-11-2023,Salaries,SL104,Staff salary,0.0,4018.28,-4018.28
+13-04-2024,Maintenance,MT106,Vendor payment,192.22,0.0,192.22
+17-03-2023,Salaries,SL104,Premises rent,0.0,1411.32,-1411.32
+12-03-2023,Salaries,SL104,Miscellaneous charges,0.0,2921.38,-2921.38
+06-11-2023,Food Supplies,FS101,Vendor payment,0.0,9324.38,-9324.38
+18-05-2023,Rent,RT105,Inventory purchase,8908.16,0.0,8908.16
+06-10-2023,Rent,RT105,Utility charges,7204.36,0.0,7204.36
+28-09-2023,Miscellaneous,MS108,Monthly bill,0.0,9062.83,-9062.83
+05-04-2023,Internet,IN107,Premises rent,0.0,536.46,-536.46
+14-05-2023,Rent,RT105,Annual maintenance,7438.19,0.0,7438.19
+10-01-2023,Electricity,EL102,Inventory purchase,9456.0,0.0,9456.0
+06-02-2023,Maintenance,MT106,Monthly bill,4354.89,0.0,4354.89
+12-11-2023,Maintenance,MT106,Utility charges,8999.35,0.0,8999.35
+13-09-2023,Electricity,EL102,Annual maintenance,0.0,7823.15,-7823.15
+08-06-2023,Salaries,SL104,Inventory purchase,9764.44,0.0,9764.44
+27-02-2024,Food Supplies,FS101,Premises rent,7391.99,0.0,7391.99
+26-02-2024,Salaries,SL104,Vendor payment,0.0,1676.06,-1676.06
+27-01-2024,Food Supplies,FS101,Miscellaneous charges,0.0,2302.09,-2302.09
+25-12-2023,Rent,RT105,Utility charges,2306.94,0.0,2306.94
+13-02-2024,Maintenance,MT106,Staff salary,0.0,8657.09,-8657.09
+26-12-2023,Internet,IN107,Vendor payment,0.0,9398.45,-9398.45
+25-09-2023,Water,WT103,Annual maintenance,0.0,478.75,-478.75
+20-12-2023,Maintenance,MT106,Vendor payment,0.0,6101.47,-6101.47
+30-01-2024,Salaries,SL104,Annual maintenance,0.0,539.43,-539.43
+02-01-2023,Salaries,SL104,Premises rent,0.0,4369.84,-4369.84
+18-11-2023,Electricity,EL102,Annual maintenance,0.0,5120.51,-5120.51
+01-12-2023,Internet,IN107,Utility charges,0.0,5588.68,-5588.68
+06-03-2024,Internet,IN107,Staff salary,6193.6,0.0,6193.6
+20-02-2024,Food Supplies,FS101,Annual maintenance,0.0,2940.45,-2940.45
+26-11-2023,Miscellaneous,MS108,Utility charges,0.0,4477.38,-4477.38
+07-06-2024,Miscellaneous,MS108,Staff salary,6622.62,0.0,6622.62
+11-06-2024,Maintenance,MT106,Utility charges,8202.39,0.0,8202.39
+14-11-2023,Salaries,SL104,Monthly bill,1558.8,0.0,1558.8
+08-09-2023,Miscellaneous,MS108,Utility charges,4608.62,0.0,4608.62
+29-01-2024,Miscellaneous,MS108,Monthly bill,0.0,2515.45,-2515.45
+20-04-2023,Internet,IN107,Miscellaneous charges,1841.28,0.0,1841.28
+21-02-2023,Salaries,SL104,Miscellaneous charges,4618.97,0.0,4618.97
+27-06-2024,Maintenance,MT106,Annual maintenance,0.0,6165.26,-6165.26
+01-04-2024,Water,WT103,Utility charges,0.0,4555.69,-4555.69
+11-10-2023,Miscellaneous,MS108,Vendor payment,2818.51,0.0,2818.51
+20-10-2023,Salaries,SL104,Vendor payment,0.0,3424.89,-3424.89
+22-05-2023,Water,WT103,Inventory purchase,3892.05,0.0,3892.05
+08-08-2023,Electricity,EL102,Miscellaneous charges,0.0,4135.23,-4135.23
+01-03-2024,Food Supplies,FS101,Annual maintenance,8345.62,0.0,8345.62
+21-01-2023,Internet,IN107,Premises rent,0.0,158.37,-158.37
+02-11-2023,Internet,IN107,Utility charges,0.0,5428.38,-5428.38
+14-05-2024,Salaries,SL104,Monthly bill,0.0,4414.78,-4414.78
+03-02-2024,Maintenance,MT106,Miscellaneous charges,0.0,7269.4,-7269.4
+11-05-2023,Food Supplies,FS101,Monthly bill,0.0,5959.74,-5959.74
+27-03-2023,Internet,IN107,Inventory purchase,8681.83,0.0,8681.83
+21-02-2023,Rent,RT105,Miscellaneous charges,0.0,3340.79,-3340.79
+01-12-2023,Maintenance,MT106,Annual maintenance,0.0,2854.74,-2854.74
+16-09-2023,Electricity,EL102,Monthly bill,0.0,291.89,-291.89
+25-12-2023,Salaries,SL104,Monthly bill,7834.21,0.0,7834.21
+01-02-2023,Salaries,SL104,Inventory purchase,8408.37,0.0,8408.37
+02-09-2023,Water,WT103,Utility charges,0.0,6727.64,-6727.64
+21-04-2024,Rent,RT105,Vendor payment,0.0,1761.11,-1761.11
+17-06-2023,Rent,RT105,Staff salary,5828.98,0.0,5828.98
+20-01-2024,Internet,IN107,Utility charges,852.37,0.0,852.37
+15-04-2023,Rent,RT105,Monthly bill,7982.65,0.0,7982.65
+22-12-2023,Internet,IN107,Premises rent,0.0,782.67,-782.67
+13-01-2023,Internet,IN107,Premises rent,0.0,1144.83,-1144.83
+15-04-2024,Water,WT103,Staff salary,0.0,1843.76,-1843.76
+10-05-2024,Miscellaneous,MS108,Staff salary,0.0,8274.77,-8274.77
+27-11-2023,Salaries,SL104,Miscellaneous charges,2861.39,0.0,2861.39
+07-09-2023,Miscellaneous,MS108,Miscellaneous charges,0.0,3430.33,-3430.33
+29-11-2023,Water,WT103,Staff salary,0.0,2199.99,-2199.99
+15-12-2023,Rent,RT105,Utility charges,0.0,5602.33,-5602.33
+29-03-2023,Salaries,SL104,Utility charges,0.0,4936.92,-4936.92
+02-05-2024,Miscellaneous,MS108,Vendor payment,0.0,7950.04,-7950.04
+29-10-2023,Salaries,SL104,Staff salary,0.0,6948.69,-6948.69
+13-01-2024,Miscellaneous,MS108,Premises rent,0.0,4312.49,-4312.49
+27-12-2023,Miscellaneous,MS108,Utility charges,0.0,3135.57,-3135.57
+04-05-2023,Salaries,SL104,Inventory purchase,0.0,1283.59,-1283.59
+16-07-2023,Salaries,SL104,Staff salary,0.0,2837.35,-2837.35
+13-04-2023,Salaries,SL104,Inventory purchase,0.0,2352.08,-2352.08
+06-11-2023,Food Supplies,FS101,Monthly bill,2815.68,0.0,2815.68
+27-10-2023,Water,WT103,Monthly bill,0.0,1115.62,-1115.62
+19-10-2023,Miscellaneous,MS108,Inventory purchase,0.0,4460.64,-4460.64
+22-02-2023,Rent,RT105,Vendor payment,0.0,1229.46,-1229.46
+15-02-2024,Miscellaneous,MS108,Monthly bill,5812.51,0.0,5812.51
+05-06-2023,Water,WT103,Utility charges,0.0,943.29,-943.29
+02-05-2023,Internet,IN107,Annual maintenance,7779.37,0.0,7779.37
+06-04-2024,Miscellaneous,MS108,Annual maintenance,0.0,8615.65,-8615.65
+09-11-2023,Food Supplies,FS101,Utility charges,9481.14,0.0,9481.14
+05-08-2023,Rent,RT105,Inventory purchase,1654.87,0.0,1654.87
+18-03-2023,Water,WT103,Miscellaneous charges,4144.32,0.0,4144.32
+26-10-2023,Food Supplies,FS101,Staff salary,2952.24,0.0,2952.24
+09-04-2024,Electricity,EL102,Utility charges,9246.72,0.0,9246.72
+11-03-2024,Electricity,EL102,Staff salary,6511.58,0.0,6511.58
+26-05-2023,Electricity,EL102,Staff salary,1742.64,0.0,1742.64
+23-10-2023,Miscellaneous,MS108,Staff salary,4740.11,0.0,4740.11
+17-02-2024,Rent,RT105,Monthly bill,0.0,4433.81,-4433.81
+18-03-2024,Maintenance,MT106,Utility charges,0.0,356.06,-356.06
+22-01-2023,Rent,RT105,Inventory purchase,7654.78,0.0,7654.78
+26-04-2024,Miscellaneous,MS108,Annual maintenance,0.0,1896.74,-1896.74
+18-05-2024,Electricity,EL102,Premises rent,0.0,3544.81,-3544.81
+25-11-2023,Electricity,EL102,Miscellaneous charges,3365.06,0.0,3365.06
+23-10-2023,Internet,IN107,Premises rent,4602.78,0.0,4602.78
+16-09-2023,Maintenance,MT106,Annual maintenance,9704.83,0.0,9704.83
+10-06-2024,Food Supplies,FS101,Utility charges,0.0,4191.15,-4191.15
+14-06-2024,Maintenance,MT106,Monthly bill,0.0,6291.55,-6291.55
+28-07-2023,Rent,RT105,Miscellaneous charges,9283.96,0.0,9283.96
+11-05-2024,Electricity,EL102,Utility charges,9734.15,0.0,9734.15
+12-06-2023,Rent,RT105,Vendor payment,5567.29,0.0,5567.29
+19-08-2023,Electricity,EL102,Inventory purchase,0.0,9475.9,-9475.9
+25-05-2024,Rent,RT105,Miscellaneous charges,0.0,4213.35,-4213.35
+28-04-2024,Salaries,SL104,Annual maintenance,0.0,5557.52,-5557.52
+15-07-2023,Water,WT103,Annual maintenance,2834.85,0.0,2834.85
+15-12-2023,Rent,RT105,Staff salary,2900.11,0.0,2900.11
+16-05-2024,Water,WT103,Premises rent,0.0,5431.95,-5431.95
+07-12-2023,Internet,IN107,Utility charges,0.0,9335.24,-9335.24
+02-09-2023,Internet,IN107,Annual maintenance,8574.53,0.0,8574.53
+14-02-2023,Maintenance,MT106,Annual maintenance,0.0,7081.76,-7081.76
+31-01-2024,Water,WT103,Inventory purchase,0.0,9651.76,-9651.76
+29-05-2024,Maintenance,MT106,Miscellaneous charges,8754.48,0.0,8754.48
+13-04-2023,Miscellaneous,MS108,Annual maintenance,7252.19,0.0,7252.19
+08-06-2023,Electricity,EL102,Staff salary,0.0,7837.1,-7837.1
+13-12-2023,Internet,IN107,Annual maintenance,8532.48,0.0,8532.48
+21-11-2023,Miscellaneous,MS108,Utility charges,6212.85,0.0,6212.85
+22-10-2023,Salaries,SL104,Vendor payment,4396.32,0.0,4396.32
+13-04-2023,Miscellaneous,MS108,Monthly bill,6970.61,0.0,6970.61
+17-02-2023,Maintenance,MT106,Premises rent,3004.34,0.0,3004.34
+17-03-2024,Water,WT103,Inventory purchase,5358.55,0.0,5358.55
+24-06-2023,Water,WT103,Annual maintenance,6133.97,0.0,6133.97
+04-09-2023,Miscellaneous,MS108,Staff salary,2398.67,0.0,2398.67
+15-04-2024,Rent,RT105,Miscellaneous charges,8999.19,0.0,8999.19
+22-10-2023,Water,WT103,Premises rent,4473.12,0.0,4473.12
+03-11-2023,Internet,IN107,Staff salary,0.0,4622.67,-4622.67
+23-07-2023,Internet,IN107,Annual maintenance,0.0,1155.87,-1155.87
+03-01-2024,Rent,RT105,Annual maintenance,0.0,317.2,-317.2
+09-10-2023,Food Supplies,FS101,Miscellaneous charges,9115.11,0.0,9115.11
+21-10-2023,Salaries,SL104,Utility charges,0.0,2268.14,-2268.14
+14-09-2023,Water,WT103,Monthly bill,9043.7,0.0,9043.7
+13-11-2023,Miscellaneous,MS108,Inventory purchase,5837.78,0.0,5837.78
+03-04-2023,Rent,RT105,Inventory purchase,0.0,7500.06,-7500.06
+25-07-2023,Water,WT103,Staff salary,0.0,5355.44,-5355.44
+18-06-2023,Rent,RT105,Staff salary,0.0,9677.1,-9677.1
+13-12-2023,Electricity,EL102,Inventory purchase,0.0,9632.64,-9632.64
+20-08-2023,Internet,IN107,Annual maintenance,0.0,994.0,-994.0
+15-01-2023,Rent,RT105,Staff salary,4602.38,0.0,4602.38
+26-01-2024,Maintenance,MT106,Miscellaneous charges,6780.88,0.0,6780.88
+26-01-2023,Maintenance,MT106,Miscellaneous charges,6511.76,0.0,6511.76
+06-11-2023,Internet,IN107,Monthly bill,1483.79,0.0,1483.79
+08-11-2023,Miscellaneous,MS108,Inventory purchase,1062.2,0.0,1062.2
+02-02-2024,Miscellaneous,MS108,Annual maintenance,0.0,6737.81,-6737.81
+08-06-2023,Internet,IN107,Annual maintenance,8353.56,0.0,8353.56
+14-10-2023,Food Supplies,FS101,Miscellaneous charges,0.0,2250.97,-2250.97
+30-08-2023,Maintenance,MT106,Premises rent,9811.18,0.0,9811.18
+03-01-2024,Food Supplies,FS101,Vendor payment,0.0,2831.23,-2831.23
+10-04-2024,Electricity,EL102,Monthly bill,6452.87,0.0,6452.87
+21-02-2023,Maintenance,MT106,Utility charges,9889.33,0.0,9889.33
+12-03-2023,Salaries,SL104,Utility charges,8149.22,0.0,8149.22
+03-12-2023,Water,WT103,Inventory purchase,2845.02,0.0,2845.02
+14-05-2023,Rent,RT105,Monthly bill,1188.27,0.0,1188.27
+15-05-2023,Food Supplies,FS101,Utility charges,0.0,7920.85,-7920.85
+28-11-2023,Food Supplies,FS101,Inventory purchase,2727.14,0.0,2727.14
+07-03-2024,Electricity,EL102,Premises rent,4814.84,0.0,4814.84
+09-06-2024,Electricity,EL102,Monthly bill,0.0,5088.0,-5088.0
+17-06-2024,Rent,RT105,Monthly bill,0.0,6469.07,-6469.07
+04-03-2023,Miscellaneous,MS108,Vendor payment,0.0,4320.11,-4320.11
+17-05-2024,Miscellaneous,MS108,Premises rent,9002.74,0.0,9002.74
+01-06-2023,Electricity,EL102,Premises rent,2822.66,0.0,2822.66
+26-01-2024,Rent,RT105,Annual maintenance,0.0,5104.96,-5104.96
+12-04-2023,Electricity,EL102,Utility charges,4357.69,0.0,4357.69
+28-02-2024,Maintenance,MT106,Vendor payment,0.0,4047.43,-4047.43
+17-11-2023,Internet,IN107,Premises rent,0.0,6684.57,-6684.57
+06-06-2023,Miscellaneous,MS108,Vendor payment,1003.13,0.0,1003.13
+06-04-2023,Internet,IN107,Premises rent,7471.43,0.0,7471.43
+14-05-2023,Food Supplies,FS101,Annual maintenance,0.0,6733.13,-6733.13
+29-12-2023,Internet,IN107,Staff salary,9687.15,0.0,9687.15
+27-12-2023,Electricity,EL102,Miscellaneous charges,1631.83,0.0,1631.83
+18-08-2023,Electricity,EL102,Premises rent,0.0,8469.2,-8469.2
+28-04-2023,Rent,RT105,Monthly bill,8091.49,0.0,8091.49
+01-10-2023,Food Supplies,FS101,Staff salary,2805.38,0.0,2805.38
+14-12-2023,Maintenance,MT106,Inventory purchase,1895.92,0.0,1895.92
+15-02-2024,Electricity,EL102,Monthly bill,7435.59,0.0,7435.59
+04-04-2023,Salaries,SL104,Premises rent,0.0,4256.34,-4256.34
+11-06-2023,Maintenance,MT106,Vendor payment,0.0,7243.8,-7243.8
+23-02-2023,Water,WT103,Monthly bill,7568.92,0.0,7568.92
+25-03-2023,Rent,RT105,Miscellaneous charges,0.0,6653.19,-6653.19
+28-03-2024,Internet,IN107,Vendor payment,0.0,2234.13,-2234.13
+20-12-2023,Internet,IN107,Miscellaneous charges,2904.14,0.0,2904.14
+23-06-2024,Rent,RT105,Monthly bill,2283.13,0.0,2283.13
+08-01-2023,Salaries,SL104,Inventory purchase,0.0,9458.71,-9458.71
+19-09-2023,Rent,RT105,Miscellaneous charges,0.0,1287.85,-1287.85
+16-03-2024,Water,WT103,Utility charges,3864.05,0.0,3864.05
+27-05-2024,Maintenance,MT106,Monthly bill,4031.0,0.0,4031.0
+22-03-2024,Food Supplies,FS101,Premises rent,0.0,9219.51,-9219.51
+15-03-2024,Internet,IN107,Annual maintenance,0.0,2966.2,-2966.2
+22-01-2023,Maintenance,MT106,Miscellaneous charges,8033.09,0.0,8033.09
+06-01-2024,Electricity,EL102,Utility charges,0.0,8460.4,-8460.4
+22-03-2024,Internet,IN107,Staff salary,4018.09,0.0,4018.09
+14-12-2023,Salaries,SL104,Vendor payment,0.0,7813.27,-7813.27
+06-06-2024,Electricity,EL102,Premises rent,9068.64,0.0,9068.64
+26-12-2023,Water,WT103,Staff salary,1117.76,0.0,1117.76
+22-07-2023,Water,WT103,Vendor payment,7626.13,0.0,7626.13
+01-07-2023,Miscellaneous,MS108,Miscellaneous charges,0.0,7569.01,-7569.01
+27-11-2023,Maintenance,MT106,Miscellaneous charges,4453.65,0.0,4453.65
+28-03-2024,Rent,RT105,Premises rent,0.0,5955.06,-5955.06
+03-06-2024,Electricity,EL102,Monthly bill,0.0,4671.25,-4671.25
+28-02-2023,Maintenance,MT106,Vendor payment,0.0,859.64,-859.64
+03-06-2024,Internet,IN107,Monthly bill,0.0,5845.26,-5845.26
+05-04-2024,Salaries,SL104,Inventory purchase,0.0,6089.56,-6089.56
+05-03-2023,Miscellaneous,MS108,Premises rent,8128.57,0.0,8128.57
+28-03-2023,Water,WT103,Miscellaneous charges,2552.66,0.0,2552.66
+25-03-2024,Water,WT103,Staff salary,0.0,3791.23,-3791.23
+01-02-2024,Internet,IN107,Monthly bill,0.0,6821.09,-6821.09
+09-12-2023,Electricity,EL102,Annual maintenance,0.0,1035.61,-1035.61
+18-10-2023,Rent,RT105,Inventory purchase,3400.28,0.0,3400.28
+25-12-2023,Rent,RT105,Vendor payment,0.0,1376.62,-1376.62
+14-11-2023,Internet,IN107,Vendor payment,0.0,8150.53,-8150.53
+09-03-2024,Maintenance,MT106,Inventory purchase,3689.72,0.0,3689.72
+08-08-2023,Maintenance,MT106,Inventory purchase,0.0,2000.85,-2000.85
+08-06-2023,Electricity,EL102,Vendor payment,0.0,8459.84,-8459.84
+03-06-2024,Food Supplies,FS101,Inventory purchase,0.0,8776.29,-8776.29
+21-01-2024,Water,WT103,Inventory purchase,1890.38,0.0,1890.38
+24-03-2024,Food Supplies,FS101,Utility charges,0.0,3706.56,-3706.56
+30-03-2024,Rent,RT105,Utility charges,0.0,2416.63,-2416.63
+13-11-2023,Miscellaneous,MS108,Miscellaneous charges,3741.63,0.0,3741.63
+17-04-2024,Rent,RT105,Annual maintenance,0.0,5078.78,-5078.78
+15-06-2023,Salaries,SL104,Monthly bill,8742.72,0.0,8742.72
+07-05-2024,Maintenance,MT106,Vendor payment,7142.87,0.0,7142.87
+19-10-2023,Electricity,EL102,Inventory purchase,2800.63,0.0,2800.63
+23-03-2024,Electricity,EL102,Premises rent,8185.36,0.0,8185.36
+28-01-2023,Internet,IN107,Premises rent,4024.89,0.0,4024.89
+30-08-2023,Internet,IN107,Monthly bill,3811.64,0.0,3811.64
+23-11-2023,Electricity,EL102,Inventory purchase,0.0,7934.67,-7934.67
+09-02-2023,Rent,RT105,Inventory purchase,0.0,6991.11,-6991.11
+25-04-2024,Miscellaneous,MS108,Monthly bill,9067.99,0.0,9067.99
+20-09-2023,Salaries,SL104,Annual maintenance,5533.16,0.0,5533.16
+24-04-2023,Rent,RT105,Monthly bill,3081.4,0.0,3081.4
+02-09-2023,Internet,IN107,Miscellaneous charges,0.0,721.79,-721.79
+02-07-2024,Food Supplies,FS101,Staff salary,7213.59,0.0,7213.59
+15-03-2024,Food Supplies,FS101,Annual maintenance,0.0,2481.59,-2481.59
+11-07-2023,Electricity,EL102,Monthly bill,0.0,770.03,-770.03
+04-02-2024,Miscellaneous,MS108,Premises rent,6393.14,0.0,6393.14
+17-09-2023,Food Supplies,FS101,Premises rent,0.0,7906.35,-7906.35
+04-09-2023,Electricity,EL102,Premises rent,0.0,1420.75,-1420.75
+13-12-2023,Water,WT103,Miscellaneous charges,0.0,9810.11,-9810.11
+06-07-2023,Water,WT103,Miscellaneous charges,7188.85,0.0,7188.85
+07-02-2023,Rent,RT105,Utility charges,533.68,0.0,533.68
+12-02-2023,Maintenance,MT106,Miscellaneous charges,0.0,5202.3,-5202.3
+17-09-2023,Food Supplies,FS101,Monthly bill,2932.5,0.0,2932.5
+06-12-2023,Rent,RT105,Annual maintenance,8013.49,0.0,8013.49
+14-02-2024,Miscellaneous,MS108,Inventory purchase,0.0,3456.46,-3456.46
+23-05-2024,Miscellaneous,MS108,Staff salary,0.0,9250.67,-9250.67
+26-03-2023,Internet,IN107,Inventory purchase,4363.01,0.0,4363.01
+28-10-2023,Maintenance,MT106,Staff salary,892.68,0.0,892.68
+10-11-2023,Miscellaneous,MS108,Miscellaneous charges,0.0,1749.78,-1749.78
+26-12-2023,Miscellaneous,MS108,Premises rent,7295.46,0.0,7295.46
+21-03-2024,Rent,RT105,Annual maintenance,842.91,0.0,842.91
+08-01-2024,Water,WT103,Miscellaneous charges,1513.52,0.0,1513.52
+05-02-2023,Water,WT103,Premises rent,2436.35,0.0,2436.35
+06-01-2024,Internet,IN107,Miscellaneous charges,6090.44,0.0,6090.44
+15-01-2024,Maintenance,MT106,Inventory purchase,0.0,7654.54,-7654.54
+26-06-2024,Maintenance,MT106,Staff salary,0.0,3212.42,-3212.42
+13-09-2023,Electricity,EL102,Miscellaneous charges,7383.18,0.0,7383.18
+14-06-2024,Internet,IN107,Staff salary,2691.59,0.0,2691.59
+01-04-2024,Salaries,SL104,Miscellaneous charges,0.0,6970.41,-6970.41
+24-07-2023,Electricity,EL102,Miscellaneous charges,8542.98,0.0,8542.98
+26-06-2023,Miscellaneous,MS108,Premises rent,8124.08,0.0,8124.08
+22-12-2023,Electricity,EL102,Inventory purchase,0.0,8924.18,-8924.18
+28-06-2023,Maintenance,MT106,Utility charges,1301.49,0.0,1301.49
+23-05-2023,Salaries,SL104,Premises rent,0.0,360.21,-360.21
+23-04-2024,Water,WT103,Annual maintenance,750.91,0.0,750.91
+05-05-2024,Internet,IN107,Vendor payment,0.0,8251.06,-8251.06
+09-05-2023,Maintenance,MT106,Premises rent,4554.75,0.0,4554.75
+12-05-2023,Water,WT103,Monthly bill,4382.92,0.0,4382.92
+08-05-2023,Water,WT103,Premises rent,0.0,1730.11,-1730.11
+19-08-2023,Maintenance,MT106,Staff salary,0.0,8474.74,-8474.74
+21-07-2023,Rent,RT105,Vendor payment,6287.72,0.0,6287.72
+29-05-2024,Water,WT103,Premises rent,1794.89,0.0,1794.89
+12-02-2023,Food Supplies,FS101,Staff salary,550.07,0.0,550.07
+04-08-2023,Internet,IN107,Staff salary,5030.58,0.0,5030.58
+06-11-2023,Miscellaneous,MS108,Annual maintenance,8066.41,0.0,8066.41
+01-11-2023,Miscellaneous,MS108,Inventory purchase,6917.27,0.0,6917.27
+26-03-2024,Internet,IN107,Premises rent,0.0,4697.98,-4697.98
+28-05-2023,Maintenance,MT106,Premises rent,0.0,7368.58,-7368.58
+13-02-2024,Water,WT103,Vendor payment,0.0,5198.3,-5198.3
+23-11-2023,Salaries,SL104,Miscellaneous charges,0.0,1312.97,-1312.97
+11-09-2023,Water,WT103,Annual maintenance,600.99,0.0,600.99
+04-03-2024,Salaries,SL104,Premises rent,8153.43,0.0,8153.43
+14-07-2023,Water,WT103,Miscellaneous charges,0.0,9960.1,-9960.1
+25-05-2024,Rent,RT105,Annual maintenance,0.0,329.45,-329.45
+01-06-2024,Miscellaneous,MS108,Premises rent,2229.93,0.0,2229.93
+19-02-2023,Food Supplies,FS101,Miscellaneous charges,0.0,4999.45,-4999.45
+20-10-2023,Food Supplies,FS101,Staff salary,4366.18,0.0,4366.18
+10-01-2024,Internet,IN107,Monthly bill,0.0,547.9,-547.9
+19-07-2023,Maintenance,MT106,Miscellaneous charges,0.0,827.96,-827.96
+14-10-2023,Electricity,EL102,Annual maintenance,9753.32,0.0,9753.32
+18-01-2024,Maintenance,MT106,Utility charges,0.0,7574.16,-7574.16
+05-06-2024,Internet,IN107,Inventory purchase,548.5,0.0,548.5
+08-12-2023,Miscellaneous,MS108,Inventory purchase,0.0,1574.51,-1574.51
+02-12-2023,Maintenance,MT106,Staff salary,3990.25,0.0,3990.25
+11-12-2023,Miscellaneous,MS108,Monthly bill,0.0,4801.44,-4801.44
+13-01-2024,Maintenance,MT106,Staff salary,9800.99,0.0,9800.99
+28-01-2023,Miscellaneous,MS108,Utility charges,0.0,9674.0,-9674.0
+22-02-2023,Miscellaneous,MS108,Annual maintenance,5289.9,0.0,5289.9
+01-06-2023,Salaries,SL104,Vendor payment,5768.45,0.0,5768.45
+15-07-2023,Food Supplies,FS101,Inventory purchase,0.0,3205.56,-3205.56
